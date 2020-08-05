@@ -23,7 +23,7 @@
 
 ### Frameworks and Libraries
 
-<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/django.jpg" /> &nbsp; &nbsp;
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/django.png" /> &nbsp; 
 <img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/react.png" /> &nbsp; &nbsp;
 
 
