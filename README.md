@@ -12,6 +12,7 @@
 ---
 
 ## Skills
+
 ### Languages
 
 <img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" /> &nbsp; &nbsp;
@@ -23,9 +24,9 @@
 
 ### Frameworks and Libraries
 
-<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/django.png" /> &nbsp; &nbsp; 
-<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/react.png" /> &nbsp; &nbsp;
-<img alt="Python" height="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/bootstrap.png" /> &nbsp; &nbsp;
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/django.png" /> &nbsp; 
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/react.png" /> &nbsp;
+<img alt="Python" height="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/bootstrap.png" /> &nbsp;
 
 
 <br>
