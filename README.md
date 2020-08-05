@@ -1,4 +1,4 @@
-# ABHI JAIN 👋
+# ABHI JAIN 
 
 ## About Me
 
