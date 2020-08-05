@@ -13,7 +13,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" /> <img align="left" alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/html.png" />
 
 
-
+<br>
 
 - You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
 
