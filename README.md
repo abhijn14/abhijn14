@@ -11,10 +11,10 @@
 
 ### Languages I work on
 
-[<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" />] 
-[<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/JS.svg" />]
-[<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/HTML.svg" />]
-[<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/CSS.svg" />]
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" /> &nbsp;
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/JS.svg" /> &nbsp;
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/HTML.svg" /> &nbsp;
+<img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/CSS.svg" /> &nbsp;
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
