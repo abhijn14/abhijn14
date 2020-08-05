@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 🔭 I’m freelance web developer and Project Engineer at Wipro Ltd. <br>
-🌱 Currently working on Django + React
+:pencil: 🎱 Currently working on Django + React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+<br>
 📫 Reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
 
