@@ -10,7 +10,7 @@
   - <a href="https://www.krcomposites.com">K. R. Composites</a>
 
 ### Languages I work on
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]
+[<img align="left" alt="Python" width="26px" src="logos/python.svg" />]
 
 
 📫 You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
