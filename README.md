@@ -29,9 +29,7 @@
 <img alt="Python" height="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/bootstrap.png" /> &nbsp;
 
 
-<br>
-
-- You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
-
 ![Abhi Jain's github stats](https://github-readme-stats.vercel.app/api?username=abhijn14&count_private=true)
 
+
+- You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
