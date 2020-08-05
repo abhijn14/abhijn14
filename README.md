@@ -10,7 +10,7 @@
   - <a href="https://www.krcomposites.com">K. R. Composites</a>
 
 ### Languages I work on
-<img align="left" alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" /> <img align="left" alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/html.png" />
+<img alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/Python.svg" /> <img alt="Python" width="26px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/html.png" />
 
 
 <br>
