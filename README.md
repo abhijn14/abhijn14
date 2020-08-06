@@ -1,4 +1,4 @@
-# [ABHI JAIN](https://www.knowabhijain.co) 
+# ABHI JAIN
 
 ## About Me
 
