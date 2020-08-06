@@ -9,6 +9,9 @@
 - Along with that, I like to make minimalistic websites. Some of my works include:
   - <a href="https://www.krcomposites.com">K. R. Composites</a>
 
+- You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
+
+
 ## Skills
 
 ### Languages
@@ -26,10 +29,8 @@
 <img alt="Python" width="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/react.png" /> &nbsp;
 <img alt="Python" height="30px" src="https://github.com/abhijn14/abhijn14/blob/master/logos/bootstrap.png" /> &nbsp;
 
-
-- You can reach me at <a href="mailto: abhijn14@live.in">abhijn14@live.in</a>
-
 ---
+
 <!-- Add social links here -->
 
 ![Abhi Jain's github stats](https://github-readme-stats.vercel.app/api?username=abhijn14&count_private=true)
